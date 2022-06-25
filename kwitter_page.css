@@ -1,0 +1,8 @@
+h1 img{
+   width: 50px; 
+}
+.input_div_message_page{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
